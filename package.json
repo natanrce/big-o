@@ -1,0 +1,18 @@
+{
+  "name": "big-o",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "tsx --watch sample/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.11.0"
+  },
+  "dependencies": {
+    "@swc/core": "^1.5.7"
+  }
+}
